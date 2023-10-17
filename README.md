@@ -1,2 +1,4 @@
 # BlogCrud
- Crud with dapper , using Repository pattern
+ Crud with dapper 
+ using Repository pattern
+ Generic types
