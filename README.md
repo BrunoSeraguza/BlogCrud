@@ -1,6 +1,7 @@
 # BlogCrud
- Crud with dapper /n
+ Crud with dapper 
  --------------
- using Repository pattern /n
+ using Repository pattern 
  --------------
  Generic types
+ --------------
