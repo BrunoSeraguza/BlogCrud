@@ -1,2 +1,2 @@
 # BlogCrud
- Crud with dapper , unsing Repository pattern
+ Crud with dapper , using Repository pattern
